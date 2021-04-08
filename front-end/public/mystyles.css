@@ -1,0 +1,73 @@
+body {
+    background-color: #A65D33;
+    color: #F9F9F9;
+    margin-bottom: 4em;
+    font-family: 'Robot', sans-serif;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    background-color: #591902;
+    color: white;
+    padding: 1em;
+    font-family: 'Kiwi Maru', serif;
+}
+
+input {
+    color: black;
+    background-color: #F2C299 !important;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+button {
+    background-color: #F2C299;
+    border: none;
+    margin: 1em;
+}
+
+.button-primary {
+    background-color: #591902 !important;
+}
+
+h3 {
+    font-weight: bold;
+    color: #ECECEC;
+    font-family: 'Kiwi Maru', serif;
+}
+
+.announcement {
+    background-color: #BF814B;
+    border-radius: 1em;
+    margin: 1em;
+    padding: 1em;
+}
+
+#nav a {
+    margin-right: 1em;
+    margin-left: 1em;
+    padding: 1em;
+    color: white;
+    text-decoration: none;
+    border-radius: 1em;
+    display: inline-block;
+    width: 150px;
+    font-family: 'Kiwi Maru', serif;
+}
+
+#nav a:hover {
+    background-color: #BF814B;
+}
+
+#nav {
+    background-color: #591902;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-radius: 1em;
+}
